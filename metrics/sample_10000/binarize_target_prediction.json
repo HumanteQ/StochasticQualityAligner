@@ -1,0 +1,1 @@
+{"aggregated_cols": ["accuracy", "balanced_accuracy", "f1", "f1_macro", "f1_micro", "f1_weighted", "precision", "precision_macro", "precision_micro", "precision_weighted", "recall", "recall_macro", "recall_micro", "recall_weighted", "estimate__count__"], "groupby_cols": ["pearson_r", "prediction_positive_proportion", "target_positive_proportion"]}

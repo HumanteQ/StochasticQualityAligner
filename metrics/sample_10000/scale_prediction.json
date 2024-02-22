@@ -1,0 +1,1 @@
+{"aggregated_cols": ["normalized_mae", "normalized_mse", "normalized_rmse", "estimate__count__"], "groupby_cols": ["pearson_r", "prediction_log2_scale"]}
